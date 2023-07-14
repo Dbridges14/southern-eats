@@ -1,0 +1,28 @@
+h1{
+    font-family: cursive;
+    font-size: 75px;
+    background-color: #d78937;
+    text-align: center;
+    color: #780101;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+h2{
+    text-decoration:underline overline #d78937;
+}
+
+h3{
+    text-align: center;
+    text-decoration: underline overline #d78937;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
